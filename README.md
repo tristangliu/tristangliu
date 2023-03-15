@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tristan Liu
-- 👀 I’m interested in neuroscience 
-- 🌱 I’m currently learning neuroscience 
+- 👀 I’m an imaging associate at CU
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on imaging analysis
 - 📫 How to reach me tristangliu@Protonmail.com
 
